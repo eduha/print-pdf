@@ -1,6 +1,6 @@
 {
   "name": "@eduha/print-pdf",
-  "version": "0.2.7",
+  "version": "0.2.8",
   "description": "Print DOM element to PDF",
   "keywords": [
     "print",
