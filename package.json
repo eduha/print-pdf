@@ -46,6 +46,6 @@
   "author": "Jeffrey Dang <jcdang@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "jspdf": "^1.4.1"
+    "jspdf": "^1.5.0"
   }
 }
